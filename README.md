@@ -23,6 +23,9 @@ O AURA foi criado para oferecer um ambiente mais tranquilo e agradável, combina
 Desenvolvido por **Gustavo Reis** como projeto acadêmico.
 
 
+
+
+
 Novas funcionalidades em breve:
 Controle de música via Bluetooth: play/pause, próxima e faixa anterior
 Notificações inteligentes: alertas de compromissos e clima
