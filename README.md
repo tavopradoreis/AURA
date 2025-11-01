@@ -1,4 +1,4 @@
-O **AURA** é um assistente de mesa inteligente desenvolvido como **trabalho de faculdade** no curso de **Ciência da Computação**.  
+O **AURA** é um assistente de mesa inteligente desenvolvido como **trabalho de faculdade** no curso de **Ciência da Computação** para o 5º semestre.  
 O projeto foi criado com **ESP32**, **display TFT 1.28"** e **sensor AHT10**, e tem como objetivo unir **tecnologia e bem-estar**.
 
 ## Funções principais
@@ -18,5 +18,12 @@ O projeto foi criado com **ESP32**, **display TFT 1.28"** e **sensor AHT10**, e 
 ## Objetivo
 O AURA foi criado para oferecer um ambiente mais tranquilo e agradável, combinando **informações úteis** com **momentos de relaxamento** através da respiração guiada.
 
+
 ## 👨‍💻 Autor
 Desenvolvido por **Gustavo Reis** como projeto acadêmico.
+
+
+Novas funcionalidades em breve:
+Controle de música via Bluetooth: play/pause, próxima e faixa anterior
+Notificações inteligentes: alertas de compromissos e clima
+Lembretes de bem-estar: avisos para levantar e beber água
